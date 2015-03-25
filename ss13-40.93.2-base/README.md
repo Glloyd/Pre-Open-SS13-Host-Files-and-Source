@@ -1,0 +1,1 @@
+Hobnob's corrected version of the SS13 source after he decompiled it. This has most of the critical bugs from decompiling ironed out, and is close to the 40.93.2 version that was played from 2006 to 2008.

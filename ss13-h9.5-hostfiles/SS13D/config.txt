@@ -1,0 +1,64 @@
+# Config file for SS13D
+#
+# lines starting with '#' are comments
+#
+#####
+#
+# logging of actions to world.log
+# comment to disable, uncomment to enable
+#
+# log OOC channel
+LOGOOC
+#
+# log client Say 
+LOGSAY
+#
+# log admin actions
+LOGADMIN
+#
+# log client access (logon/logoff)
+LOGACCESS
+#
+# log game actions (start of round, results, etc.)
+LOGGAME
+#
+# log player votes
+LOGVOTE
+#
+#
+#####
+#
+# probablities for game modes chosen in "secret" and "random" modes
+# 
+# default probablity is 1, increase to make that mode more likely to be picked
+# set to 0 to disable that mode
+#  
+PROB_EXTENDED 0
+PROB_TRAITOR 1
+PROB_MONKEY 1
+PROB_METEOR 2
+PROB_BLOB 2
+PROB_NUCLEAR 1
+#
+#
+#####
+#
+# voting control
+#
+# allow players to initiate a restart vote
+ALLOWVOTERESTART
+#
+# allow players to initate a mode-change start
+ALLOWVOTEMODE
+#
+# min delay (seconds) between voting sessions (default 10 minutes)
+VOTEDELAY 600
+#
+# time period (seconds) which voting session will last (default 1 minute)
+VOTEPERIOD 60
+#
+# prevents dead players from voting or starting votes
+NODEADVOTE
+#
+# players' votes default to "No vote" (otherwise,  default to "No change")
+DEFAULTNOVOTE

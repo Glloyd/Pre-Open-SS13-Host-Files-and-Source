@@ -1,0 +1,52 @@
+// DM Environment file for SS13A.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: ss13_algorithm2.dm
+DIR:
+MAP_ICON_TYPE: 0
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "aaaDefines.dm"
+#include "airtunnel.dm"
+#include "areas.dm"
+#include "atmo_control.dm"
+#include "atoms.dm"
+#include "cell_process.dm"
+#include "cellautomata.dm"
+#include "chemical.dm"
+#include "colour2html.dm"
+#include "computer.dm"
+#include "cryo.dm"
+#include "demo.dm"
+#include "demo2.dm"
+#include "dna.dm"
+#include "engine.dm"
+#include "globals.dm"
+#include "hexadecimal.dm"
+#include "instructions.dm"
+#include "inverthtml.dm"
+#include "items.dm"
+#include "mob.dm"
+#include "shuttle.dm"
+#include "ss13_algorithm2.dm"
+#include "Test.dm"
+#include "TextHandling.dm"
+#include "weap_sat.dm"
+#include "weapons.dm"
+#include "main.dmp"
+// END_INCLUDE
+

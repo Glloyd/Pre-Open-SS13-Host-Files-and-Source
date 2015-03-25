@@ -1,0 +1,1 @@
+Map files dating from around 2006/2007. You can't host the game with these, but you can view and edit the map as it was back then.
