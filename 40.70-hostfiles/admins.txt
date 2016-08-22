@@ -1,0 +1,15 @@
+exadv1 - Primary Administrator
+blu - Primary Administrator
+taioko - Primary Administrator
+purpl - Primary Administrator
+roara - Major Administrator
+jon88 - Major Administrator
+link43130 - Major Administrator
+ryanfs - Major Administrator
+alert - Moderator
+
+
+;Available positions (they have unlimited use) - Primary Administrator, Major Administrator, Administrator, Supervisor, Moderator, Game Master, Banned
+;Note that not all of the options work right now. Until they do the hard coded admin lsit in the code WILL be there.
+;Also you can't change exadv1.
+;The offical banned list is below the admin list. Please update it accordingly.

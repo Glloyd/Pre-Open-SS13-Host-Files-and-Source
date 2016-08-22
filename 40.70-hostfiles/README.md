@@ -1,0 +1,1 @@
+The host files for SS13 version 40.70, with a .dmb dated June 5th 2004, "around the time of the room remodels." One of the host files released by /u/thenaterator. 

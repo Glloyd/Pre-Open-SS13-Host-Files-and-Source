@@ -1,0 +1,1 @@
+The host files for SS13 version 40.833, with a .dmb dated July 2nd 2004, "the debut of monkey mode." One of the host files released by /u/thenaterator. 

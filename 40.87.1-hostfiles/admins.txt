@@ -1,0 +1,14 @@
+exadv1 - Primary Administrator
+blu - Primary Administrator
+aza - administrator
+rojiru - administrator
+tobiasstrife - administrator
+
+
+
+;Available positions (they have unlimited use) - Primary Administrator, Major Administrator, Administrator, Supervisor, Moderator, Game Master, Banned
+;Note that not all of the options work right now. Until they do the hard coded admin lsit in the code WILL be there.
+;Also, you can't change exadv1. There are still the hard-coded administrators who still will have power on your server (Puzzlemaker, Roara, Thief jack, Blu, Link43130, etc.)
+;If you have trouble adding keys, the syntax goes thusly:
+;name - administrator
+;Without the semicolon. 

@@ -1,0 +1,1 @@
+The host files for SS13 version 40.76, with a .dmb dated June 19th 2004, "yellow jumpsuits make their debut. You can build/repair r-walls." One of the host files released by /u/thenaterator. 
