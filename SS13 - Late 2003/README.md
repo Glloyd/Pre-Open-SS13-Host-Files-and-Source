@@ -1,0 +1,3 @@
+The host files for an unknown SS13 version, with a .dmb dated December 12th 2003, which was reportedly compiled before then. Apparently, this was "the last version before a bug involving the cryo chamber was patched out (it let you revive people from death until the fix)." One of the host files released by /u/mirablu in September 2016. 
+
+These are currently the only known hostfiles from 2003 still in existence. 
